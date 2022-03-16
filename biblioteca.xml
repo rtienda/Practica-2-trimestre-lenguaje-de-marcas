@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="biblioteca.xsl"?>
+<biblioteca xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/xampp/htdocs/EjerciciosLDM/Carpeta_Proyecto_2_Trimestre/finalT2/biblioteca.xsd">
+  <libro>
+    <titulo>El bueno de Miki</titulo>
+    <autor>Miki</autor>
+    <foto>miki.webp</foto>
+    <sexo>Macho</sexo>
+    <fechaPublicacion año="2003"/>
+  </libro>
+  <libro>
+    <titulo>Senda cute</titulo>
+    <autor fechaNacimiento="28/03/1936">Senda</autor>
+    <foto>senda.webp</foto>
+    <sexo>Hembra</sexo>
+    <fechaPublicacion año="2005"/>
+  </libro>
+  <libro>
+    <titulo>Summer chilling</titulo>
+    <autor fechaNacimiento="28/03/1936">Summer</autor>
+    <foto>summer.webp</foto>
+    <sexo>Hembra</sexo>
+    <fechaPublicacion año="2008"/>
+  </libro>
+</biblioteca>
